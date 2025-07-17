@@ -85,12 +85,12 @@ Recorded walkthrough of the model and results.
 
 ### ✅ Actual vs Predicted Bike Rentals
 
-<img src="visuals/actual_vs_predicted.png" alt="Actual vs Predicted" width="600"/>
+![Actual vs Predicted](https://raw.githubusercontent.com/kashishk2/BikeRentalPrediction/main/visuals/actual_vs_predicted.png)
 
 ### ✅ Error Prediction
 
-<img src="visuals/error_prediction.png" alt="Error Prediction" width="600"/>
+![Error Prediction](https://raw.githubusercontent.com/kashishk2/BikeRentalPrediction/main/visuals/error_prediction.png)
 
 ### ✅ Feature Importance
 
-<img src="visuals/feature_importance.png" alt="Feature Importance" width="600"/>
+![Feature Importance](https://raw.githubusercontent.com/kashishk2/BikeRentalPrediction/main/visuals/feature_importance.png)
