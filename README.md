@@ -83,14 +83,9 @@ Recorded walkthrough of the model and results.
 
 ## 📊 Visualizations
 
-### ✅ Actual vs Predicted Bike Rentals
+Plots like:
+- Actual vs Predicted Bike Rentals
+- Error Distribution
+- Feature Importance (if any)
 
-![Actual vs Predicted](https://raw.githubusercontent.com/kashishk2/BikeRentalPrediction/main/visuals/actual_vs_predicted.png)
-
-### ✅ Error Prediction
-
-![Error Prediction](https://raw.githubusercontent.com/kashishk2/BikeRentalPrediction/main/visuals/error_prediction.png)
-
-### ✅ Feature Importance
-
-![Feature Importance](https://raw.githubusercontent.com/kashishk2/BikeRentalPrediction/main/visuals/feature_importance.png)
+Can be found inside `/visuals` folder.
