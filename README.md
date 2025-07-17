@@ -60,22 +60,6 @@ Build a machine learning model that predicts bike rental counts based on weather
 
 
 
-📊 **Visualizations**
-
-1\. **Actual vs Predicted Rentals**
-
--(visuals/actual\_vs\_predicted.png)
-
-2\. **Error Prediction**
-
--(visuals/error\_prediction.png)
-
-3\. **Feature Importance**
-
--(visuals/feature\_importance.png)
-
-
-
 🙋‍♀️ **Author:**
 
 Kashish
@@ -97,4 +81,16 @@ Recorded walkthrough of the model and results.
 \#MachineLearning #InternshipProject #IBITasks #BikeRentalPrediction
 
 
+## 📊 Visualizations
 
+### ✅ Actual vs Predicted Bike Rentals
+
+![Actual vs Predicted](visuals/actual_vs_predicted.png)
+
+### ✅ Error Prediction
+
+![Error Prediction](visuals/error_prediction.png)
+
+### ✅ Feature Importance
+
+![Feature Importance](visuals/feature_importance.png)
